@@ -8,11 +8,11 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
 ### Screenshot
+![Screenshot](/Assets/qrCode-screenshot.png)
 
 ### Links
 
@@ -20,6 +20,10 @@
 - Live Site URL: (https://vwfem.github.io/qr-code/)
 
 ## My process
+- Setup and organize files and folders.
+- Dissect project briefing and determine the needed html elements.
+- Once html skeleton is built, I then build out the skeleton css. 
+- Putting base details in place, I then move to going in depth with the details and making any final tweaks.
 
 ### Built with
 
@@ -35,8 +39,6 @@ The first challenge definitely helped me move past some of the anxiety I have to
 I definitely want to come back in the future and rework my initial design. I am very happy with what I've made the first round, but I am aware there is some room for improvment later down the line.
 
 Version 1 - 03/29/2023
-Version 2 - 
-Version 3 - 
  
 ### Useful resources
 
