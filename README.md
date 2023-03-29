@@ -12,7 +12,7 @@
 ## Overview
 
 ### Screenshot
-![Screenshot](/Assets/qrCode-screenshot.png)
+![Screenshot of QR Code Reader](/Assets/qrCode-screenshot.png)
 
 ### Links
 
