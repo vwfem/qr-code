@@ -1,18 +1,19 @@
 body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    background-color: hsl(220, 15%, 55%);
 }
-.qr-container{
+.main-container{
     background-color: hsl(0, 0%, 100%);
 }
-.qr-background{
-    background-color: hsl(218, 44%, 22%);
+qr-code{
 }
 h1{
+    color: black;
     font-weight: 700;
-
 }
 p{
+    color: hsl(220, 15%, 55%);
     font-weight: 400;
-    color: hsl(212, 45%, 89%);
 }
